@@ -1,0 +1,4 @@
+#code:cp1252
+
+print("hola mundo")
+#se escribe un comentario
