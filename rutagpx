@@ -1,8 +1,0 @@
-#code:cp1252
-!pip install gpxpy
-!pip install folium
-!pip install ploty
-!pip install pillow
-!pip install exifread
-
-print ("Hola mundo")
