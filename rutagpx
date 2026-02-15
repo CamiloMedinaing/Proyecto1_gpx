@@ -1,4 +1,8 @@
 #code:cp1252
+!pip install gpxpy
+!pip install folium
+!pip install ploty
+!pip install pillow
+!pip install exifread
 
-print("hola mundo")
-#se escribe un comentario
+print ("Hola mundo")
